@@ -1,0 +1,13 @@
+{
+  "transport": "SMTP",
+  "host": "smtp.gmail.com",
+  "secureConnection": true,
+  "port": 465,
+  "requiresAuth": true,
+  "service": "gmail",
+  "auth": {
+    "user": "activitiesapphelpdesk@gmail.com",
+    "pass": "Ulm0809#"
+  },
+  "debug": true
+}

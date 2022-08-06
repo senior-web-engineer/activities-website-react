@@ -1,0 +1,270 @@
+[33mcommit f02b4a28fc8ef3520415fc5a02c6ee158794d9fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Sat Nov 14 22:22:45 2020 +0300
+
+    chat time and filter activity of ad_listing
+
+[33mcommit 09890993972305191308d7103f7384d6fcadfc37[m
+Merge: 7b83b4b c6decf1
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Sat Nov 14 08:12:01 2020 +0300
+
+    Merge branch 'master' of https://github.com/lisovetskyi/activities
+
+[33mcommit 7b83b4b6ef634bebe4dad84a02efda9c449c391e[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Sat Nov 14 08:11:41 2020 +0300
+
+    chat working
+
+[33mcommit c6decf1c14ba226c871efadf7ec0393876ddb93e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c108fbf e779667
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Sat Nov 14 07:09:46 2020 +0200
+
+    Merge branch 'master' of https://github.com/lisovetskyi/activities
+
+[33mcommit c108fbf34fa195a9fe1f37478c78f14aac28ae01[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Sat Nov 14 07:09:32 2020 +0200
+
+    sitemap built
+
+[33mcommit e77966702d35344b5044759d56e7d22ca838ac5c[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Sat Nov 14 04:26:26 2020 +0300
+
+    extraSession and homePage
+
+[33mcommit 6a84bbade376b6e08585ac73f7be848a8e2edb60[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Fri Nov 13 03:01:52 2020 +0200
+
+    Warning remove
+
+[33mcommit 834a2d842ec930f05f12b919beee9a3e8feca3d3[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Fri Nov 13 03:00:46 2020 +0200
+
+    Fix phone input issues
+
+[33mcommit e4434da9e81cf2725b3ea040bb8fac938ffa17ea[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Fri Nov 13 02:54:34 2020 +0200
+
+    phoneinput fix issues
+
+[33mcommit 95cb669065e34fff3e111004b76c90828d4850bf[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Fri Nov 13 01:52:25 2020 +0200
+
+    Fix issue
+
+[33mcommit a16486dc1da5a9f918b22ad5d071cbcc294c3712[m
+Merge: 2e4842f 389c7f3
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Fri Nov 13 01:25:35 2020 +0200
+
+    Update loading speed
+
+[33mcommit 2e4842f33fb534ef93721e9844782fc8f3b82b0f[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Fri Nov 13 01:21:34 2020 +0200
+
+    Update SEO-friendly URL
+
+[33mcommit 389c7f3f983c5c435588e8d5292d74d9fc6e7dd8[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Fri Nov 13 01:47:30 2020 +0300
+
+    url modified
+
+[33mcommit 288969c33be4d3cf6b0e67bb5aafe76d6c9806fd[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Fri Nov 13 01:45:58 2020 +0300
+
+    listing-detail url modified
+
+[33mcommit 4c954fcbaac5d68a0aefbb2bf27acad3eea0c90f[m
+Merge: a73db9f cd8980c
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Thu Nov 12 21:53:25 2020 +0200
+
+    Merge branch 'master' of https://github.com/lisovetskyi/activities
+
+[33mcommit cd8980c4272de6013e0552cdf5fc100400472edc[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Thu Nov 12 22:44:25 2020 +0300
+
+    url remove space
+
+[33mcommit a73db9f28b2973a12d929ebf061a96dd28646bbf[m
+Merge: f14c80d 486d4f9
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Thu Nov 12 21:39:09 2020 +0200
+
+    Merge branch 'master' of https://github.com/lisovetskyi/activities
+
+[33mcommit 486d4f982ad60967e1a12f9319ce756d6d7ab015[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Thu Nov 12 04:50:57 2020 +0300
+
+    header bar scroll modified
+
+[33mcommit 064d6d8c6bb1f0003fb1085b93ebe6a920e3d78d[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Wed Nov 11 14:45:46 2020 +0300
+
+    chat side scroller and withdraw bank button modified
+
+[33mcommit 73fcf2f3b365860c507ce5c54761e1f2c3ca4c34[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Wed Nov 11 13:18:38 2020 +0300
+
+    booking extra session and virtual link
+
+[33mcommit f14c80ddad6ee8bb8498335c2265d8aa9a0138a6[m
+Merge: 91f2300 eee7cdb
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Wed Nov 11 02:39:58 2020 +0200
+
+    Merge branch 'master' of https://github.com/lisovetskyi/activities
+
+[33mcommit 91f23005b0830e8dbc9df140358c3b36ae0b3e9f[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Wed Nov 11 02:39:44 2020 +0200
+
+    lazy component optimize
+
+[33mcommit eee7cdb4129bfaae1f7b16e969422618fa8dad12[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Wed Nov 11 03:33:17 2020 +0300
+
+    withdraw and boost modified
+
+[33mcommit 3efc545983d2c1a194729b2c5ac9538302614110[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Wed Nov 11 00:13:48 2020 +0300
+
+    card listing modified working now
+
+[33mcommit f7ad209cba41f9ba3ac8d93d5a866b15f415072f[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 20:28:27 2020 +0200
+
+    Purge cache
+
+[33mcommit 849b9066974f41009b0f69ccc592e892bf2fe63e[m
+Merge: 2327654 a027aee
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 20:09:35 2020 +0200
+
+    Merge branch 'master' of https://github.com/lisovetskyi/activities
+
+[33mcommit 23276549eb46e99832688b288d5f9b38fbd24a16[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 20:08:39 2020 +0200
+
+    Update lazy part
+
+[33mcommit a027aee62a8c15e16712ef4a4a84e1d80aeda7c7[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 20:40:11 2020 +0300
+
+    add session modified
+
+[33mcommit 228f55dec8e850b262b7543bc49e6ac3d3453a47[m
+Merge: b08ad30 1c5f04b
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 08:24:40 2020 +0300
+
+    Merge branch 'master' of https://github.com/lisovetskyi/activities
+
+[33mcommit b08ad3064719b2870142c61f4d994ab7d4b4cc3f[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 08:24:26 2020 +0300
+
+    add activity working now
+
+[33mcommit 1c5f04b2b59f793ef72003298aae324d266c82af[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 07:04:23 2020 +0200
+
+    Build cache clean
+
+[33mcommit f1d5f8378d9a6cd0912c2c6be9cc34d5829a9344[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 06:52:17 2020 +0200
+
+    remove img
+
+[33mcommit 8bf0dcdabe91e79c67375048cf7266820e206f13[m
+Merge: 31119dc fa304ad
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 06:44:46 2020 +0200
+
+    Merge branch 'master' of https://github.com/lisovetskyi/activities
+
+[33mcommit 31119dc714127928de57a70f42f45290d432fd5e[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 06:44:33 2020 +0200
+
+    lazy component, js import
+
+[33mcommit fa304ad0ac0733a64f0b807e81ed3ac776e6f812[m
+Merge: 6022af8 ca39ac2
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 07:37:16 2020 +0300
+
+    Merge branch 'master' of https://github.com/lisovetskyi/activities
+
+[33mcommit 6022af8618fb0fecaef2ec59ce17998a504ced6e[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Tue Nov 10 07:36:49 2020 +0300
+
+    add activity page working now
+
+[33mcommit ca39ac297a5644ea137452e28ea5fb722e6a2980[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Mon Nov 9 23:53:02 2020 +0200
+
+    meta
+
+[33mcommit cdb8858b96e06ebdc9174f5861903a15e6c0547c[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Mon Nov 9 23:40:53 2020 +0200
+
+    meta, express
+
+[33mcommit a0e1a748a69f903527fe5e5040941dac21e2a109[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Mon Nov 9 23:36:18 2020 +0200
+
+    register service
+
+[33mcommit 172304e83c1b4eb8ff910cfd1bfb5cde9aa8ad79[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Mon Nov 9 23:31:13 2020 +0200
+
+    Htaccess remove
+
+[33mcommit 4326066f7b24d4750a7e8158ec8de3c74e9dc629[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Mon Nov 9 23:15:50 2020 +0200
+
+    Htaccess add
+
+[33mcommit 652a218c25db6047c140a9a7cd02d4dd1684452e[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Mon Nov 9 23:11:44 2020 +0200
+
+    Htaccess
+
+[33mcommit 88c35b91b71fe095ea8c7a4d8be37219f687652c[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
+Date:   Mon Nov 9 22:50:15 2020 +0200
+
+    Expires update clean
+
+[33mcommit 728d26357bc5e764b3a3486367e88ebb7251bd69[m
+Author: lisovetskyi <lisovetskyi.b.v@gmail.com>
